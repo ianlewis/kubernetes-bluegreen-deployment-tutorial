@@ -1,4 +1,4 @@
-# Kubernetes Blue/Green Deplyment Tutorial
+# Kubernetes Blue/Green Deployment Tutorial
 
 This is a simple tutorial on how to do [Blue/Green Deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html) on Kubernetes.
 
